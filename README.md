@@ -86,7 +86,7 @@ How could your project grow and become something even more? What kind of skills,
 
 Describe the process of using the solution. In what kind situations is the solution is needed?
 
-![imagen robot saludando](./images/robot-saludando.png)
+![imagen robot saludando](./imagen.png)
 
 Who are the users, what kinds of needs should be taken into account?
 
