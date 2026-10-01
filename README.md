@@ -82,4 +82,12 @@ How could your project grow and become something even more? What kind of skills,
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc*
 
-![imagen robot saludando](./images/robot.png)
+## How is it used?
+
+Describe the process of using the solution. In what kind situations is the solution is needed?
+
+![imagen robot saludando](./images/robot-saludando.png)
+
+Who are the users, what kinds of needs should be taken into account?
+
+
